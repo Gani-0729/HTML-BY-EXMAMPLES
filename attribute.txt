@@ -1,0 +1,15 @@
+The href Attribute
+
+The <a> tag defines a hyperlink. The href attribute specifies the URL of the page the link goes to:
+
+Example
+<a href="https://www.w3schools.com">Visit W3Schools</a>
+You will learn more about links in our HTML Links chapter.
+
+The src Attribute
+
+The <img> tag is used to embed an image in an HTML page. The src attribute specifies the path to the image to be displayed:
+
+Example
+<img src="img_girl.jpg">
+
