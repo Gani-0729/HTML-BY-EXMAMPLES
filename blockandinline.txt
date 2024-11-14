@@ -1,0 +1,21 @@
+block elements
+
+Two commonly used block elements are: <p> and <div>.
+
+The <p> element defines a paragraph in an HTML document.
+
+The <div> element defines a division or a section in an HTML document.
+
+The <p> element is a block-level element.
+
+The <div> element is a block-level element.
+Example
+<p>Hello World</p>
+<div>Hello World</div>
+
+inline elements
+
+This is a <span> element inside a paragraph.
+
+Example
+<span>Hello World</span>
